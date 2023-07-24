@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, everyone!
+
+I orignally got intersted in programming from playing chess and wondering how the different chess computers work.  I first started learning Python becuase I am an engineer by degree, but I am currently learning Javascript, Java, HTML, and CSS.  Since the start of my programming journey, I have followed many videos on YouTube on how to program different games within Python, and how to implement the min-max optimization computer players.  I hope to eventually learn more about machine learning as well as general software engineering practices.  
