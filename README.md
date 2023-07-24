@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Hello, everyone!
 
-I originally got interested in programming from playing chess and wondering how the different chess computers work.  I first started learning Python because I am an engineer by degree, but I am currently learning Javascript, Java, HTML, and CSS.  Since the start of my programming journey, I have followed many videos on YouTube on how to program different games within Python, and how to implement the min-max optimization computer players.  I hope to eventually learn more about machine learning as well as general software engineering practices.  
+I originally got interested in programming from playing chess and wondering how the different chess computers work.  I first started learning Python because I am an engineer by degree, but I am currently learning JavaScript, Java, HTML, and CSS.  Since the start of my programming journey, I have followed many videos on YouTube on how to program different games within Python, and how to implement the min-max optimization computer players.  I hope to eventually learn more about machine learning as well as general software engineering practices.  
